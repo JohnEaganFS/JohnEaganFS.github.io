@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio
 
-You can use the [editor on GitHub](https://github.com/JohnEaganFS/JohnEaganFS.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is John Eagan. I am currently studying Computer Science as a Senior at California State University, Fresno.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
